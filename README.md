@@ -1,6 +1,6 @@
 # Clinical NLP Summarization Engine for Patient History & Decision Support
 
-> An end-to-end NLP pipeline that auto-generates concise, clinically relevant summaries from lengthy patient histories using transformer-based models — built to reduce information overload and support faster, data-driven clinical decisions.
+> An end-to-end NLP pipeline that auto-generates concise, clinically relevant summaries from lengthy patient histories using transformer-based models built to reduce information overload and support faster, data-driven clinical decisions.
 
 ---
 
@@ -12,11 +12,11 @@ Built an NLP pipeline using **T5** and **BART** transformer models to automatica
 
 ##  Key Features
 
-- **Abstractive & Extractive Summarization** — leverages T5 and BART seq2seq architectures to generate human-readable, context-aware summaries
-- **Medical NER Integration** — identifies and extracts key clinical entities (diagnoses, medications, procedures) to ensure summary relevance
-- **Multi-Metric Evaluation** — benchmarked using ROUGE-1, ROUGE-2, ROUGE-L, and BLEU scores for structural and semantic accuracy
-- **Web-Based Demo Interface** — interactive UI for clinical teams to input patient notes and retrieve instant summaries
-- **Clinical Decision Support Focus** — designed for healthcare product teams to reduce documentation burden and accelerate decision-making
+- **Abstractive & Extractive Summarization**: leverages T5 and BART seq2seq architectures to generate human-readable, context-aware summaries
+- **Medical NER Integration**: identifies and extracts key clinical entities (diagnoses, medications, procedures) to ensure summary relevance
+- **Multi-Metric Evaluation**: benchmarked using ROUGE-1, ROUGE-2, ROUGE-L, and BLEU scores for structural and semantic accuracy
+- **Web-Based Demo Interface**: interactive UI for clinical teams to input patient notes and retrieve instant summaries
+- **Clinical Decision Support Focus**: designed for healthcare product teams to reduce documentation burden and accelerate decision-making
 
 ---
 
@@ -140,4 +140,4 @@ Healthcare professionals face significant documentation burden — patient histo
 ##  Author
 
 **Nithin Kumar**
-📧 nithink12131@gmail.com | 🌐 [nithinkumar.vercel.app](https://nithinkumar.vercel.app) | 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 nithink12131@gmail.com | 🌐 [nithinkumar.vercel.app](https://nithinkumar.vercel.app) 
